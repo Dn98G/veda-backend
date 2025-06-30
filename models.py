@@ -138,3 +138,4 @@ class Review(db.Model, SerializerMixin):
 # Added missing relationships where needed
 
 # Fixed the order-product relationship that was previously missing      
+
